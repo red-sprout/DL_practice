@@ -1,1 +1,1 @@
-# DL_practice
+# DL material(IAI Postech)
